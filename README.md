@@ -1,2 +1,6 @@
 # hello-world
-This is my hello-world repo
+This the hello-world repository
+
+This is the initial edit of the file
+Another line is added too
+
